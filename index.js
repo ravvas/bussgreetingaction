@@ -1,5 +1,5 @@
 const core = require('@actions/core');
-const moment = require('moment');
+// const moment = require('moment');
 
 try {
   const name = core.getInput('name');
